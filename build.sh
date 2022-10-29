@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Copyright (C) 2022 Kneba <abenkenary3@gmail.com>
+# Copyright (C) 2022  <abenkenary3@gmail.com>
 #
 
 # Main
